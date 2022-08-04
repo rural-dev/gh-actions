@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rural-dev/gh-action.git"
+    "url": "git+https://github.com/rural-dev/gh-actions.git"
   }
 }
